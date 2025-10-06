@@ -58,3 +58,5 @@ Cicle Formatiu de Grau Mitjà — Sistemes Microinformàtics i Xarxes
 Curs 2025/26
 
 🔗 [Document original](https://docs.google.com/document/d/1BL4O1KotV4UR_P5rjN74C6-fLpEkKJ0FNRRUhrEge48/edit?usp=sharing)
+
+[Tornar a l'enunciat](README.md)

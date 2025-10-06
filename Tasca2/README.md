@@ -63,4 +63,4 @@ Redactar un informe que inclogui:
 ## Solució 
 [Solució de la tasca](Solucio.md)
 
-[Torna al projecte](Projecte2)
+[Torna al projecte](../README.md)

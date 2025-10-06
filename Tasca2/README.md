@@ -60,4 +60,4 @@ Redactar un informe que inclogui:
 - Apunts **RA1AA3 El SAI**
 
 ---
-
+## [Solució de la tasca](Solucio.md)

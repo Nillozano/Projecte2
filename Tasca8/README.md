@@ -1,4 +1,4 @@
-## Título de nivel 2
+## Grups:
 
 | Grup   | Client | Client |
 |---------|-----------|-----------|

@@ -1,6 +1,6 @@
 # T02: Selecció d’un SAI per una empresa client
 
-## 🏢 Descripció del projecte
+##  Descripció del projecte
 
 L’empresa **TecnoGestió S.L.**, especialitzada en gestió documental i assessorament informàtic, disposa d’un petit despatx amb:
 

@@ -9,7 +9,7 @@
 | Grup 5  | Client 13          |  Client 2         |
 | Grup 6  | Client 14          | Client 1          |
 | Grup 7  | Client 11          |   Client 10        |
-| Grup 8  | Client 7          | Client 8          |
+|**Grup 8**  | **Client 7**          | **Client 8**         |
 | Grup 9  | Client 15          |  Client 17         |
 
 

@@ -4,3 +4,4 @@ Benvinguts a EverPia, una consultora IT que té com a missió resoldre els repte
 ## Tasques
 - [T02](Tasca2)
 - [T03](Tasca3)
+- [T08](Tasca8)
